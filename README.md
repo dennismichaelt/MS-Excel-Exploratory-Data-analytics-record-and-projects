@@ -21,3 +21,7 @@ This is my practical record for the 1st semester Data Analytics lab. It has 10 a
 8. **Customer waiting time:** Further analysis of the waiting time data.
 9. **Daily demand:** Found probabilities, expected demand (about 11.49) and standard deviation (about 6.21) to help decide daily stock.
 10. **Correlation:** Applied Karl Pearson's correlation to height and weight data and to heart patient data.
+
+## Skills
+
+Data summarizing, charts, pivot tables, descriptive statistics, probability and correlation in Excel.
